@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/stackline-product-page/static/css/main.0e673345.css",
-    "main.js": "/stackline-product-page/static/js/main.e70c14b8.js",
+    "main.css": "/stackline-product-page/static/css/main.bbf9c114.css",
+    "main.js": "/stackline-product-page/static/js/main.377b9b5e.js",
     "index.html": "/stackline-product-page/index.html",
-    "main.0e673345.css.map": "/stackline-product-page/static/css/main.0e673345.css.map",
-    "main.e70c14b8.js.map": "/stackline-product-page/static/js/main.e70c14b8.js.map"
+    "main.bbf9c114.css.map": "/stackline-product-page/static/css/main.bbf9c114.css.map",
+    "main.377b9b5e.js.map": "/stackline-product-page/static/js/main.377b9b5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e673345.css",
-    "static/js/main.e70c14b8.js"
+    "static/css/main.bbf9c114.css",
+    "static/js/main.377b9b5e.js"
   ]
 }
