@@ -1,0 +1,39 @@
+/* src/components/Sidebar.css */
+
+.sidebar {
+  width: 250px;
+  border-right: 1px solid #ccc;
+  padding: 16px;
+}
+
+.logo-container {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.logo {
+  max-width: 150px;
+}
+
+.product-details {
+  text-align: center;
+}
+
+.product-image {
+  width: 150px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.tags {
+  margin-top: 8px;
+}
+
+.tag {
+  display: inline-block;
+  background: #eee;
+  padding: 4px 8px;
+  margin: 4px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}

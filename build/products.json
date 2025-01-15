@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Sample Product",
+    "subtitle": "Best product ever",
+    "tags": ["electronics", "gadget"],
+    "image": "https://via.placeholder.com/150",
+    "sales": [
+      {
+        "weekEnding": "2020-01-01",
+        "retailSales": 1000,
+        "wholesaleSales": 800,
+        "unitsSold": 100,
+        "retailerMargin": 200
+      },
+      {
+        "weekEnding": "2020-01-08",
+        "retailSales": 1200,
+        "wholesaleSales": 900,
+        "unitsSold": 120,
+        "retailerMargin": 300
+      }
+   
+    ]
+  }
+  
+]

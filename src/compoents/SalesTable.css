@@ -1,0 +1,26 @@
+/* src/components/SalesTable.css */
+
+.sales-table {
+  width: 100%;
+  border-collapse: collapse; /* remove double borders */
+  margin-top: 16px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.sales-table thead {
+  background-color: #f2f2f2;
+}
+
+.sales-table th,
+.sales-table td {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.sales-table tbody tr:last-child td {
+  border-bottom: none;
+}

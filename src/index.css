@@ -1,0 +1,21 @@
+/* src/index.css */
+
+/* A simple reset or base styles */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* In modern CSS, it’s good practice to set box-sizing on all elements */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* Some global utility classes or general styles can go here. */
+.hidden {
+  display: none !important;
+}
